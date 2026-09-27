@@ -1,0 +1,8 @@
+{
+  "name": "THI ĐUA LIÊN ĐỘI TRƯỜNG TH&THCS PHƯỚC HIỆP",
+  "description": "Hệ thống Quản lý Thi đua Nề nếp - THI ĐUA LIÊN ĐỘI TRƯỜNG TH&THCS PHƯỚC HIỆP liên cấp Tiểu học và THCS, tích hợp phân quyền RBAC và nhận dữ liệu Google Sheets thời gian thực.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
